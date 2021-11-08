@@ -30,6 +30,8 @@ This study estimates the effect Yelp ratings have on restaurant attendance. The 
 
 - [NFL Losers Pool 2021](http://example.com/)
 - [Webscraping Demo](http://example.com/)
+- [Masters Championship Historical Betting Performance](https://github.com/jjhutchi/golf-major-hist-ev/blob/main/analysis.md)
+
 <!-- - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/) -->
