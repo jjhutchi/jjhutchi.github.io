@@ -2,7 +2,7 @@
 
 ---
 
-### MA Economics Summer Paper
+### Economic Research Papers
 
 [The Impact of Easing Stay at Home Orders on US Businesses](/pdf/sah-removal-covid.pdf)
 <img src="images/sah-coef.png?raw=true"/>
@@ -15,12 +15,12 @@
 <!-- [Project 3 Title](http://example.com/)
 <img src="images/YelpPoster.pdf?raw=true"/> -->
 
----
+<!-- --- -->
 
-### Category Name 2
+### Data Science Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [NFL Losers Pool 2021](http://example.com/)
+- [Webscraping Demo](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
