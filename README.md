@@ -1,6 +1,6 @@
 ## Developer Portfolio Landing Page Template
 
-In development
+Developing in progress... 
 
 <!-- 
 ### Introduction
