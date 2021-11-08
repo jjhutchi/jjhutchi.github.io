@@ -4,16 +4,16 @@
 
 ### MA Economics Summer Paper
 
-[Project 1 Title](/pdf/sah-removal-covid.pdf)
+[The Impact of Easing Stay at Home Orders on US Businesses](/pdf/sah-removal-covid.pdf)
 <img src="images/sah_coef.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Does Yelp impact where we choose to eat?](/pdf/SFU-Yelp-Thesis.pdf)
+<img src="images/YelpPoster.pdf?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!-- [Project 3 Title](http://example.com/)
+<img src="images/YelpPoster.pdf?raw=true"/> -->
 
 ---
 
