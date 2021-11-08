@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### MA Economics Summer Paper
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 Title](/pdf/sah-removal-covid.pdf)
+<img src="images/sah_coef.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
