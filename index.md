@@ -8,7 +8,7 @@
 <img src="images/sah-coef.png?raw=true"/>
 
 ---
-[Does Yelp impact where we choose to eat?](/pdf/SFU-Yelp-Thesis.pdf)
+[Does Yelp impact where we choose to eat?](/pdf/SFU-Yelp-thesis.pdf)
 <img src="images/YelpPoster.pdf?raw=true"/>
 
 ---
