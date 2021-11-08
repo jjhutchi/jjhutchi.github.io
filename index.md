@@ -5,7 +5,7 @@
 ### MA Economics Summer Paper
 
 [The Impact of Easing Stay at Home Orders on US Businesses](/pdf/sah-removal-covid.pdf)
-<img src="images/sah_coef.png?raw=true"/>
+<img src="images/sah-coef.png?raw=true"/>
 
 ---
 [Does Yelp impact where we choose to eat?](/pdf/SFU-Yelp-Thesis.pdf)
