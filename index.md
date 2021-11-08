@@ -9,11 +9,11 @@
 
 ---
 [Does Yelp impact where we choose to eat?](/pdf/SFU-Yelp-thesis.pdf)
-<img src="images/YelpPoster.pdf?raw=true"/>
+<img src="images/YelpPoster.png?raw=true"/>
 
 ---
 <!-- [Project 3 Title](http://example.com/)
-<img src="images/YelpPoster.pdf?raw=true"/> -->
+<img src="images/YelpPoster.png?raw=true"/> -->
 
 <!-- --- -->
 
