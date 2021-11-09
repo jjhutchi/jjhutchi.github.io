@@ -29,7 +29,7 @@ mechanism used to overcome the information asymmetry with consumption decisions.
 
 ### Data Science Projects
 
-- [NFL Losers Pool 2021](/Projects/)
+- [NFL Losers Pool 2021](/_pages/Projects/)
 - [Webscraping Demo](http://example.com/)
 - [Masters Championship Historical Betting Performance](https://github.com/jjhutchi/golf-major-hist-ev/blob/main/analysis.md)
 
