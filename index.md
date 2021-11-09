@@ -18,7 +18,8 @@ This paper explores human mobility responses to city-level reopenings for a samp
 [Does Yelp impact where we choose to eat?](/pdf/SFU-Yelp-thesis.pdf)
 <img src="images/YelpPoster.png?raw=true"/>
 
-This study estimates the effect Yelp ratings have on restaurant attendance. The novelty of this paper lies in the sense that it estimates the impact of each individual rating received by the restaurant. A natural experiment is used to overcome the simultaneity problem associated with measuring the impact ratings have on restaurant performance. A 2SLS IV empirical strategy is employed using Yelpers who exclusively provide low ratings as an exogenous shock to restaurants. Results show each incremental star rating is responsible for a 13% increase in ratings received by the restaurant in the subsequent week. Estimates can be expected to be as large as 20% based on restaurant area density. Ultimately, this study finds Yelp to be a mechanism used to overcome the information asymmetry with consumption decisions.
+This study estimates the effect Yelp ratings have on restaurant attendance. The novelty of this paper lies in the sense that it estimates the impact of each individual rating received by the restaurant. A natural experiment is used to overcome the simultaneity problem associated with measuring the impact ratings have on restaurant performance. A 2SLS IV empirical strategy is employed using Yelpers who exclusively provide low ratings as an exogenous shock to restaurants. Results show each incremental star rating is responsible for a 13% increase in ratings received by the restaurant in the subsequent week. Estimates can be expected to be as large as 20% based on restaurant area density. Ultimately, this study finds Yelp to be a
+mechanism used to overcome the information asymmetry with consumption decisions.
 
 ---
 <!-- [Project 3 Title](http://example.com/)
@@ -31,6 +32,9 @@ This study estimates the effect Yelp ratings have on restaurant attendance. The 
 - [NFL Losers Pool 2021](http://example.com/)
 - [Webscraping Demo](http://example.com/)
 - [Masters Championship Historical Betting Performance](https://github.com/jjhutchi/golf-major-hist-ev/blob/main/analysis.md)
+
+
+<!-- - [Watercooler 1:1 weekly pairings generator]() -->
 
 <!-- - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
