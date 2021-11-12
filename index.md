@@ -28,17 +28,16 @@ mechanism used to overcome the information asymmetry with consumption decisions.
 <!-- --- -->
 
 <!-- Is there a better way to link to pages on github? -->
-### Data Science Projects
+## Data Science Projects
 
-- [NFL Losers Pool 2021](https://jjhutchi.github.io/NFL-Losers-2021/report.html)
-- [Webscraping Demo - Masters Golf Tournament Betting Performance](https://jjhutchi.github.io/golf-major-hist-ev/analysis.html)
+### [NFL Losers Pool 2021](https://jjhutchi.github.io/NFL-Losers-2021/report.html)
+Optimizing a set of picks for a NFL Losers Pool, where each enterant picks one team per week to lose. 
+If your pick wins, you are removed from the pool. The enterant who lasts the longest wins. I build an 
+optimization algorithm using the oppertunity cost of picking a given team in a given week and explore 
+the results from the pool.
 
 
-
-<!-- - [Watercooler 1:1 weekly pairings generator]() -->
-
-<!-- - [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/) -->
+### [Webscraping Demo - Masters Golf Tournament Betting Performance](https://jjhutchi.github.io/golf-major-hist-ev/analysis.html)
+How much money would you have made if you placed a $100 bet on Tiger Woods to win every masters he has competed in? How about for the rest of the historical Masters champions?
 
 ---
