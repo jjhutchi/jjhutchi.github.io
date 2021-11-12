@@ -27,11 +27,12 @@ mechanism used to overcome the information asymmetry with consumption decisions.
 
 <!-- --- -->
 
+<!-- Is there a better way to link to pages on github? -->
 ### Data Science Projects
 
-- [NFL Losers Pool 2021](/_pages/Projects/)
-- [Webscraping Demo](http://example.com/)
-- [Masters Championship Historical Betting Performance](https://github.com/jjhutchi/golf-major-hist-ev/blob/main/analysis.md)
+- [NFL Losers Pool 2021](https://jjhutchi.github.io/NFL-Losers-2021/report.html)
+- [Webscraping Demo - Masters Golf Tournament Betting Performance](https://jjhutchi.github.io/golf-major-hist-ev/analysis.html)
+
 
 
 <!-- - [Watercooler 1:1 weekly pairings generator]() -->
