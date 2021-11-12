@@ -7,7 +7,7 @@
 #### M.A. Economics Summer Thesis
 
 [The Impact of Easing Stay at Home Orders on US Businesses](/pdf/sah-removal-covid.pdf)
-[![poster](/images/YelpPoster.png?raw=true)](/images/sah-coef.png?raw=true)
+[![poster](/images/sah-coef.png?raw=true)](/images/sah-coef.png?raw=true)
 
 This paper explores human mobility responses to city-level reopenings for a sample of US cities during the COVID-19 pandemic. With the use of cellphone tracking and business financial data, I employ a variety of reduced form econometric techniques to estimate how the general US population responded to city level stay at home order removals. I observe modest responses in visiting patterns to essential industries following the removal of stay at home orders, and with larger impacts at industries deemed to be either semi-essential or non-essential. Industry specific models suggest mobility patterns shifting towards industries more prone to spread the COVID-19 virus. Further, I find there to be a strong increase in small business revenue following the removal of stay at home orders.
 
