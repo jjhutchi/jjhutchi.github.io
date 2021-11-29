@@ -31,9 +31,9 @@ mechanism used to overcome the information asymmetry with consumption decisions.
 ## Data Science Projects
 
 ### [NFL Losers Pool 2021](https://jjhutchi.github.io/NFL-Losers-2021/report.html)
-Optimizing a set of picks for a NFL Losers Pool, where each enterant picks one team per week to lose. 
-If your pick wins, you are removed from the pool. The enterant who lasts the longest wins. I build an 
-optimization algorithm using the oppertunity cost of picking a given team in a given week and explore 
+Optimizing a set of picks for a NFL Losers Pool, where each entrant picks one team per week to lose. 
+If your pick wins, you are removed from the pool. The entrant who lasts the longest wins. I build an 
+optimization algorithm using the opportunity's cost of picking a given team in a given week and explore 
 the results from the pool.
 
 
