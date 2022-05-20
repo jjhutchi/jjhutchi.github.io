@@ -30,6 +30,11 @@ mechanism used to overcome the information asymmetry with consumption decisions.
 <!-- Is there a better way to link to pages on github? -->
 ## Data Science Projects
 
+### [PGA Championship 2022 Dashboard](https://jjhutchi.github.io/PGA-Championship-DB/pga-post.html)
+Using the ESPN Sports API to download real time PGA Championship data for a fantasy 
+pool. I walk through of parsing JSON data in R to generate a Google Sheet dashboard. 
+
+
 ### [NFL Losers Pool 2021](https://jjhutchi.github.io/NFL-Losers-2021/report.html)
 Optimizing a set of picks for a NFL Losers Pool, where each entrant picks one team per week to lose. 
 If your pick wins, you are removed from the pool. The entrant who lasts the longest wins. I build an 
